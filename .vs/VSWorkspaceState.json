@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.venv"
   ],
-  "SelectedNode": "\\requirements.txt",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
